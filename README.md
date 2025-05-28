@@ -1,4 +1,9 @@
-  ## Hi there 👋, I'm Chamod Pankaja
+<p align="center"> <img  alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
+
+<p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 
+  
+
+<h2 align="center">Hi there 👋, I'm Chamod Pankaja</h2>
 
 
 
