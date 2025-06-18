@@ -2,9 +2,13 @@
 <p align="center"> <img  alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
 <p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=FF7029&lines=Hi+There...+👋;I'm+Chamod+Pankaja;Mobile+Application+Developer;Welcome+To+My+Profile..." />
+</h1>
+
   
 
-<h2 align="center">Hi there 👋, I'm Chamod Pankaja</h2>
 
 
 
