@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=FF7029&lines=Hi+There...+👋;I'm+Chamod+Pankaja;Mobile+Application+Developer;Welcome+To+My+Profile..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=FF7029&lines=Hi+There...+👋;I'm+Chamod+Pankaja;Computer+Science+Undergaduate;Mobile+Application+Developer;Java+Developer;Intern+Software+Engineer;Welcome+To+My+Profile..." />
 </h1>
 
   
